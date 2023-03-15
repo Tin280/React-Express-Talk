@@ -1,4 +1,4 @@
-# React-Express-Talk
+# How do you run this app?
 This is the example for a server communicate with Frontend which use React  
 These command are need to run the program  
 download to your local machine  
